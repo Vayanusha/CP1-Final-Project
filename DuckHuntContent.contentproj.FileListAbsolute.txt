@@ -1,0 +1,5 @@
+F:\Visual Studio 2010\Projects\DuckHunt\DuckHunt\DuckHuntContent\obj\x86\Debug\DuckHuntContent.contentprojResolveAssemblyReference.cache
+F:\DuckHunt\DuckHunt\DuckHuntContent\obj\x86\Debug\DuckHuntContent.contentprojResolveAssemblyReference.cache
+E:\DuckHunt\DuckHunt\DuckHuntContent\obj\x86\Debug\DuckHuntContent.contentprojResolveAssemblyReference.cache
+F:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHuntContent\obj\x86\Debug\DuckHuntContent.contentprojResolveAssemblyReference.cache
+E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHuntContent\obj\x86\Debug\DuckHuntContent.contentprojResolveAssemblyReference.cache

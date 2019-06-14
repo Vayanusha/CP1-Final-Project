@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>duckHuntBackground.png</Source>
+      <Name>duckHuntBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duckHuntBackground.xnb</Output>
+      <Time>2018-05-07T10:41:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>duckOne.png</Source>
+      <Name>duckOne</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duckOne.xnb</Output>
+      <Time>2018-05-07T10:41:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>MousePointer.png</Source>
+      <Name>MousePointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\MousePointer.xnb</Output>
+      <Time>2018-05-07T10:46:46-04:00</Time>
+    </Item>
+    <Item>
+      <Source>duckOneLeft.png</Source>
+      <Name>duckOneLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duckOneLeft.xnb</Output>
+      <Time>2018-05-07T11:10:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>duckHuntStartBOI.jpg</Source>
+      <Name>duckHuntStartBOI</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duckHuntStartBOI.xnb</Output>
+      <Time>2018-05-10T09:30:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>duckHuntLose.jpg</Source>
+      <Name>duckHuntLose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duckHuntLose.xnb</Output>
+      <Time>2018-05-10T19:26:30-04:00</Time>
+    </Item>
+    <Item>
+      <Source>oneBullet.png</Source>
+      <Name>oneBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\oneBullet.xnb</Output>
+      <Time>2018-05-10T19:44:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>threeBullets.png</Source>
+      <Name>threeBullets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\threeBullets.xnb</Output>
+      <Time>2018-05-10T19:43:10-04:00</Time>
+    </Item>
+    <Item>
+      <Source>twoBullets.png</Source>
+      <Name>twoBullets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\twoBullets.xnb</Output>
+      <Time>2018-05-10T19:44:16-04:00</Time>
+    </Item>
+    <Item>
+      <Source>duckIcon.png</Source>
+      <Name>duckIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duckIcon.xnb</Output>
+      <Time>2018-05-10T20:10:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>duckFalling.png</Source>
+      <Name>duckFalling</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duckFalling.xnb</Output>
+      <Time>2018-05-14T10:26:54-04:00</Time>
+    </Item>
+    <Item>
+      <Source>scoreDisplayer.png</Source>
+      <Name>scoreDisplayer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\scoreDisplayer.xnb</Output>
+      <Time>2018-05-12T08:37:58-04:00</Time>
+    </Item>
+    <Item>
+      <Source>duckHuntGrass.png</Source>
+      <Name>duckHuntGrass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duckHuntGrass.xnb</Output>
+      <Time>2018-05-14T10:28:22-04:00</Time>
+    </Item>
+    <Item>
+      <Source>duckHuntDog.png</Source>
+      <Name>duckHuntDog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duckHuntDog.xnb</Output>
+      <Time>2018-05-14T10:37:02-04:00</Time>
+    </Item>
+    <Item>
+      <Source>duckHuntDock2.png</Source>
+      <Name>duckHuntDock2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\duckHuntDock2.xnb</Output>
+      <Time>2018-05-23T08:22:08-04:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2018-05-12T09:16:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gotADuck.wav</Source>
+      <Name>gotADuck</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gotADuck.xnb</Output>
+      <Time>2018-05-17T08:44:06-04:00</Time>
+    </Item>
+    <Item>
+      <Source>stageClear.wav</Source>
+      <Name>stageClear</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\stageClear.xnb</Output>
+      <Time>2018-05-17T08:46:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gameOverSound.wav</Source>
+      <Name>gameOverSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\gameOverSound.xnb</Output>
+      <Time>2018-05-17T08:49:04-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHuntContent\</RootDirectory>
+      <LoggerRootDirectory>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHuntContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\TOP SECRET\New folder\New folder (3)\New folder (7)\New folder (3)\New folder\DuckHunt\DuckHunt\DuckHunt\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2018-09-05T10:45:21.5762547-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
